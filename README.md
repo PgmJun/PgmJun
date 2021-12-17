@@ -19,14 +19,12 @@
 반갑습니다👐<br>
 제 이름은 최승준이고 백엔드를 공부하고 있어요!<br>
 현재 대학교에 재학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
-
 </p>
 
 <br>
 
-<center><Strong>⚒️Tech Stack⚒️</Strong></center>
-
 <p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong>
     💡used as the main
 </p>
 
