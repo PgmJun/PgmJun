@@ -4,18 +4,18 @@
     <a href="https://www.instagram.com/jn_sept/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
-📧Contect: chltmdwns96@gmail.com
+📧Contect : chltmdwns96@gmail.com
 </p>
-
-<br>
-
-
 
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack</Strong>
+반갑습니다! 백엔드를 정복할 남자 최승준입니다👐
 </p>
+
+<br>
+
+<center><Strong>⚒️Tech Stack</Strong></center>
 
 <p align="center">
     💡used as the main
@@ -36,14 +36,13 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">  
 </p>
 
 <br>
 
+<center>
 ![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
-
-
-
-
+</center>
 
