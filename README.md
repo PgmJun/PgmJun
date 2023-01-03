@@ -41,7 +41,6 @@
 <p align="center" display="inline-block">
     💡Tools <br>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
