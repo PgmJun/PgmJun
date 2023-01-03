@@ -18,36 +18,55 @@
 <p align="center">
 반갑습니다👐<br>
 제 이름은 최승준이고 백엔드를 공부하고 있어요!<br>
-현재 대학교에 재학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
+항상 배우려는 자세로 학습에 임하고 있습니다.<br>
+배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.
 </p>
 
 <br>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    💡Language <br>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</p>
+<p align="center" display="inline-block">
+    💡Backend <br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p>
+<p align="center" display="inline-block">
+    💡Tools <br>
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</p>
+<p align="center" display="inline-block">
+    💡DB <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<p align="center" display="inline-block">
+    💡DevOps <br>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-</p><br>
-
-<p align="center">
-    💡used at least once
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+<p align="center" display="inline-block">
+    💡CI/CD <br>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
 
+<p align="center">
+    💡Used at least once
+</p>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
 </p>
 
 <br>
