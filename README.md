@@ -16,10 +16,17 @@
 <br>
 
 <p align="center">
-반갑습니다👐<br>
-제 이름은 최승준이고 백엔드를 공부하고 있어요!<br>
-항상 배우려는 자세로 학습에 임하고 있습니다.<br>
-배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.
+    반갑습니다👐 <br>
+    “작은 변화들이 모여 세상을 바꾼다” <br>
+    라는 믿음을 가진 개발자 최승준입니다! <br><br>
+    소프트웨어공학을 전공 중이며, <br>
+    하나를 배우더라도 깊이 있게 배우려는 자세로 백엔드 개발을 학습하고 있습니다.
+
+    Nice to meet you👐
+    “Small changes add up to change the world”
+    I am Choi Seung-jun, a developer with the belief that it is!
+
+    I'm majoring in computer software engineering and learning backend.
 </p>
 
 <br>
