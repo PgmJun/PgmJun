@@ -47,10 +47,9 @@
 | 단체명 | 기수 | 활동기간 | 수상 | 회고 | github |
 | --- | --- | --- | --- | --- | --- |
 | UNITHON - IT 해커톤 | 8기 | 2022.03 | - | https://pgmjun.tistory.com/50 |  |
-|  2022 서울시 IoT 공공 데이터 해커톤 | 1기 | 2022.08 | 🏆 우수상(서울특별시장상) | https://pgmjun.tistory.com/78 |  |
+| 2022 서울시 IoT 공공 데이터 해커톤 | 1기 | 2022.08 | 🏆 우수상(서울특별시장상) | https://pgmjun.tistory.com/78 |  |
 | 솝커톤(Sopkerthon) - IT 동아리 SOPT 단기 해커톤 | 32기 | 2023.05 | 🏆 대상(앱 부문) | https://pgmjun.tistory.com/121 |  |
-| 앱잼(AppJam) - IT 동아리 SOPT 장기 해커톤 | 32기 | 2023.07 ~
-2023.08 | 🏆 우수상 | https://pgmjun.tistory.com/132 | https://github.com/Team-LionHeart/LionHeart-Server |
+| 앱잼(AppJam) - IT 동아리 SOPT 장기 해커톤 | 32기 | 2023.07 ~2023.08 | 🏆 우수상 | https://pgmjun.tistory.com/132 | https://github.com/Team-LionHeart/LionHeart-Server |
 | 동양미래대학교 2023 코딩 콘테스트 | - | 2023.10 | 🏆 1등상 |  |  |
 | 솝커톤(Sopkerthon) - IT 동아리 SOPT 단기 해커톤 | 33기 | 2023.11 | - |  |  |
 | 학습역량강화 프로그램 참여 학생 콘텐츠 및 수기 공모전 | - | 2023.12 | 🏆 장려상 |  |  |
