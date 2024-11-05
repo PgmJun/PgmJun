@@ -31,5 +31,7 @@
 
 <br><br>
 <p align="center">
-<Strong>Email</Strong><br>chltmdwns96@gmail.com<br>
+<Strong>Email 📧</Strong><br>chltmdwns96@gmail.com<br>
 </p>
+
+<br>
