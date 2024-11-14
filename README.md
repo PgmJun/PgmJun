@@ -29,6 +29,9 @@
 - **솝커톤(Sopkerthon) - IT 동아리 SOPT 단기 해커톤** | 33기 | 2023.11 |
 - **학습역량강화 프로그램 참여 학생 콘텐츠 및 수기 공모전** | 2023.12 | 🏆 장려상
 
+## Open Source Contribution
+- **spring-data-jpa** | Remove unnecessary semicolons DefaultRevisionMetadataUnitTests class | [PR Link](https://github.com/spring-projects/spring-data-jpa/pull/3670)
+
 <br><br>
 <p align="center">
 <Strong>Email 📧</Strong><br>chltmdwns96@gmail.com<br>
